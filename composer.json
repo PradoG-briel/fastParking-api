@@ -1,0 +1,9 @@
+{
+    "name": "adema/api-fastparking",
+    "require": {},
+    "autoload": {
+     "psr-4": {
+         "App\\": "App/"
+     }
+    }
+}
